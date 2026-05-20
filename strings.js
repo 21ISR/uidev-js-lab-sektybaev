@@ -9,7 +9,7 @@ const lastname = "Иванов";
 const firstname = "иван";
 const group = "ИСР-21";
 const avg = 4.75;
-console.log(`студент ${lastname} ${Firstname}, группа ${group}, средний балл: ${avg}`);
+console.log(`студент ${lastname} ${firstname}, группа ${group}, средний балл: ${avg}`);
 
 
 const date = "2025-03-15";
